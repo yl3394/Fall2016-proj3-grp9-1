@@ -17,6 +17,15 @@ Term: Fall 2016
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
+![image](figs/cover_images/Screen Shot 2016-11-03 at 10.24.46 AM.png)
+![image](figs/cover_images/Screen Shot 2016-11-03 at 10.24.54 AM.png)
+![image](figs/cover_images/Screen Shot 2016-11-03 at 10.24.57 AM.png)
+![image](figs/cover_images/Screen Shot 2016-11-03 at 10.25.06 AM.png)
+![image](figs/cover_images/Screen Shot 2016-11-03 at 10.25.13 AM.png)
+
+
+
+
 ```
 proj/
 ├── lib/
